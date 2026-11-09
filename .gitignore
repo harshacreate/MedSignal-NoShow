@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+*.joblib
+.DS_Store
+# Training outputs and local environments
+reports/
+.coverage
